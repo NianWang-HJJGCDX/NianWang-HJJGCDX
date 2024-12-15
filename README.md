@@ -10,17 +10,15 @@
 - 📫 For ***academic exchange or cooperation***, please feel free to email me at nianwang04@outlook.com.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NianWang-HJJGCDX&show_icons=true&theme=radical)
-![python](https://github-readme-stats.vercel.app/api/top-langs/?username=xyl-507&layout=compact&hide_border=true&langs_count=10)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xyl-507&theme=github-compact)](https://github.com/xyl-507/github-readme-activity-graph)
+![python](https://github-readme-stats.vercel.app/api/top-langs/?username=NianWang-HJJGCDX&layout=compact&hide_border=true&langs_count=10)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NianWang-HJJGCDX&theme=github-compact)](https://github.com/NianWang-HJJGCDX/github-readme-activity-graph)
 
 <!--- 注释符号
-[![GitHub Streak](https://streak-stats.demolab.com?user=xyl-507)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NianWang-HJJGCDX)](https://git.io/streak-stats)
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
-![](https://komarev.com/ghpvc/?username=xyl-507&abbreviated=true)
+
+![](https://komarev.com/ghpvc/?username=NianWang-HJJGCDX&abbreviated=true)
