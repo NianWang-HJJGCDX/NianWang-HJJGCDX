@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nian Wang</h1>
-<h3 align="left">Welcome to my github page!</h3>
+<h3 align="left">Welcome to my github page!</h3> ![](https://komarev.com/ghpvc/?username=NianWang-HJJGCDX&abbreviated=true)
 
 - 👨‍🎓 I'm now a PhD student from Xi'an  Research Institute of High-Tech.
 
@@ -21,4 +21,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=NianWang-HJJGCDX&abbreviated=true)
+
