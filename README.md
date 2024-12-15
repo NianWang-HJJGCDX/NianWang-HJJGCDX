@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yuanliang Xue</h1>
+<h1 align="center">Hi 👋, I'm Nian Wang</h1>
 <h3 align="left">Welcome to my page!</h3>
 
-- 👨‍🎓 I'm now a PhD student from Xi'an High-Tech Research Institute.
+- 👨‍🎓 I'm now a PhD student from Xi'an  Research Institute of High-Tech.
 
-- 📚 My research interest is **UAV object tracking based on Siamese neural network and Transformer**.
+- 📚 My researches focus on  **machine Learning (deep Learning) and its applications to image (video) processing, computer vision and data mining**.
 
-- ⚡ I’m currently learning about `multi-modal visual object tracking`
+- ⚡ My current interests include  `image (video) restoration, data clustering (classification) and object recognition (tracking)`.
 
 [![Lorin-github](https://github-readme-stats.vercel.app/api?username=xyl-507)](https://github.com/anuraghazra/github-readme-stats) 
 ![python](https://github-readme-stats.vercel.app/api/top-langs/?username=xyl-507&layout=compact&hide_border=true&langs_count=10)
@@ -19,6 +19,6 @@
 <p align="left">
 </p>
 
-- 📫 How to reach me: xyl_507@outlook.com
+- 📫 How to reach me: nianwang04@outlook.com
 
 ![](https://komarev.com/ghpvc/?username=xyl-507&abbreviated=true)
