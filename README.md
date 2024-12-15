@@ -9,7 +9,7 @@
 
 - 📫 For ***academic exchange or cooperation***, please feel free to email me at nianwang04@outlook.com.
 
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=NianWang-HJJGCDX)](https://github.com/anuraghazra/github-readme-stats&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NianWang-HJJGCDX&show_icons=true&theme=radical)
 ![python](https://github-readme-stats.vercel.app/api/top-langs/?username=xyl-507&layout=compact&hide_border=true&langs_count=10)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xyl-507&theme=github-compact)](https://github.com/xyl-507/github-readme-activity-graph)
 
