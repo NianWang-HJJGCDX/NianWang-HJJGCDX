@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yuanliang Xue</h1>
+<h3 align="left">Welcome to my page!</h3>
 
-<!--
-**NianWang-HJJGCDX/NianWang-HJJGCDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I'm now a PhD student from Xi'an High-Tech Research Institute.
 
-Here are some ideas to get you started:
+- 📚 My research interest is **UAV object tracking based on Siamese neural network and Transformer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ I’m currently learning about `multi-modal visual object tracking`
+
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=xyl-507)](https://github.com/anuraghazra/github-readme-stats) 
+![python](https://github-readme-stats.vercel.app/api/top-langs/?username=xyl-507&layout=compact&hide_border=true&langs_count=10)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xyl-507&theme=github-compact)](https://github.com/xyl-507/github-readme-activity-graph)
+
+<!--- 注释符号
+[![GitHub Streak](https://streak-stats.demolab.com?user=xyl-507)](https://git.io/streak-stats)
 -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+- 📫 How to reach me: xyl_507@outlook.com
+
+![](https://komarev.com/ghpvc/?username=xyl-507&abbreviated=true)
