@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nian Wang</h1>
-<h3 align="left">Welcome to my github page!</h3>![](https://komarev.com/ghpvc/?username=NianWang-HJJGCDX&abbreviated=true) 
+<h1 align="center">Hi 👋, I'm Nian Wang</h1> <!--- 注释符号
+[![GitHub Streak](https://streak-stats.demolab.com?user=NianWang-HJJGCDX)](https://git.io/streak-stats)
+-->
+
+![](https://komarev.com/ghpvc/?username=NianWang-HJJGCDX&abbreviated=true) 
+<h3 align="left">Welcome to my github page!</h3>
 
 - 👨‍🎓 I'm now a PhD student from Xi'an  Research Institute of High-Tech.
 
@@ -12,10 +16,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NianWang-HJJGCDX&show_icons=true&theme=radical)
 ![python](https://github-readme-stats.vercel.app/api/top-langs/?username=NianWang-HJJGCDX&layout=compact&hide_border=true&langs_count=10)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NianWang-HJJGCDX&theme=github-compact)](https://github.com/NianWang-HJJGCDX/github-readme-activity-graph)
-
-<!--- 注释符号
-[![GitHub Streak](https://streak-stats.demolab.com?user=NianWang-HJJGCDX)](https://git.io/streak-stats)
--->
 
 
 
