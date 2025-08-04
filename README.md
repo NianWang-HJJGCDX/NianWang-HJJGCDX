@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm now a PhD student from Xi'an  Research Institute of High-Tech.
 
-- 📖 My researches focus on  machine Learning (deep Learning) and its applications to **image (video) processing, computer vision and data mining**. Now I am severing as a reviewer for IEEE TIP, TMM, TCSVT, SPL, pattern recognition and knowledge-based systems etc.
+- 📖 My researches focus on  machine Learning (deep Learning) and its applications to **image (video) processing, computer vision and data mining**. Now I am severing as a reviewer for  IEEE TIP,  TFS, TNNLS, TMM, TCSVT, TGRS, TITS, TCE, TETCI, TASE, TCI, and Elsevier journals Pattern Recognition, Knowledge-Based Systems etc.
 
 - 🔥 My current interests include  `image (video) restoration, data clustering (classification) and object recognition (tracking)`. You can transfer to my [Homepage](https://nianwang-hjjgcdx.github.io/) to  get the one-by-one relations of all my papers and codes.
 
